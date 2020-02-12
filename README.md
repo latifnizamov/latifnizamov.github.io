@@ -1,1 +1,1 @@
-# latifnizamov1.github.io
+# latifnizamov.github.io
