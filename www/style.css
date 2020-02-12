@@ -1,0 +1,37 @@
+@charset "UTF-8";
+*{
+  padding: 1em;
+  margin; 1;
+
+}
+
+nav{
+  font-size: 20px;
+  text-align: center;
+  position: fixed;
+  background-color: rgba(14,125,240,0.43);
+}
+a{
+  color: #000;
+
+}
+body{
+  background-color: #EFFA93;
+  font-size: 20px;
+  font-family: Palatino, sans-serif;
+  text-align: center;
+  text-decoration: none;
+}
+
+
+/* img{
+  display: block;
+  float: left;
+} */
+span{
+  font-size: 30px;
+}
+
+footer{
+  background-color:#ACE609;
+}
