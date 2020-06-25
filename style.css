@@ -242,6 +242,10 @@ img{
   background-image: url("img/icon-css.svg");
 }
 
+.skill-js {
+  background-image: url("img/icon-js.svg");
+}
+
 .level {
   margin: 0 0 40px;
   height: 24px;
