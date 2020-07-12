@@ -176,6 +176,17 @@ img{
   font-weight: 500;
   color: #f9dd79;
 }
+h3 a{
+  text-decoration: none;
+}
+
+h3 a:visited{
+  color: #00a4a1;
+}
+
+h3 a:active{
+  color: #06f7f3;
+}
 
 
 .intro .container {
