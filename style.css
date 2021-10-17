@@ -655,6 +655,12 @@ footer p {
     .btn1 {
         display: inline;
     }
+    .about {
+        background: center no-repeat;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.822), rgba(0, 0, 0, 0.863)), url(img/2.jpg);
+        background-size: cover;
+    }
+
     .about h2,
     .portfolio h2,
     .skills h2,
