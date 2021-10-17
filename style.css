@@ -484,8 +484,6 @@ footer p {
     text-align: center;
 }
 
-@media (min-width: 1200px) {}
-
 @media (max-width: 1200px) {
     .header-top-wrapper h1 {
         font-size: 50px;
@@ -655,9 +653,18 @@ footer p {
     .btn1 {
         display: inline;
     }
+
+    /* BAckground of block about me */
     .about {
         background: center no-repeat;
         background-image: linear-gradient(rgba(0, 0, 0, 0.822), rgba(0, 0, 0, 0.863)), url(img/2.jpg);
+        background-size: cover;
+    }
+    /* backgorund block experience and education */
+
+    .resume {
+        background: bottom no-repeat;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.822), rgba(0, 0, 0, 0.863)), url(img/bg.jpg);
         background-size: cover;
     }
 
@@ -667,7 +674,7 @@ footer p {
     .experience h2,
     .education h2,
     .contact h2 {
-        font-size: 16px;
+        font-size: 26px;
     }
     .img img {
         width: 200px;
